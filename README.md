@@ -294,6 +294,7 @@ Official integrations are maintained by companies building production ready MCP 
 
 A growing set of community-developed and maintained servers demonstrates various applications of MCP across different domains.
 
+- **[On-chain Forensics](https://github.com/leohoudinisanders-byte/forensics-mcp)** - Token due-diligence for AI agents: letter-grade verdicts, mint activity, settlement safety, token and wallet profiles. Payable per call over x402 on Base, with a free developer-key tier.
 - **[AllInOneMCP](https://github.com/particlefuture/MCPDiscovery) - MCP of MCPs. A central hub for MCP servers. Helps you discover available MCP servers and learn how to install and use them. REMOTE! Use the url [https://mcp.pfvc.io/mcp/](https://mcp.pfvc.io/mcp/) to add the server. **Remember the final backslash\*\*.
 - **[Airtable](https://github.com/domdomegg/airtable-mcp-server)** - Read and write access to Airtable databases.
 - **[Agentset](https://github.com/agentset-ai/mcp-server)** - RAG MCP for your [Agentset](https://agentset.ai/) data.
